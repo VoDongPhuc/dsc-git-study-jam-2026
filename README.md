@@ -14,6 +14,5 @@ Dự án tham gia cuộc thi thiết kế UI cho **Git & GitHub Study Jam 2026**
    - *Nhiệm vụ:* Tạo branch `feature/home` từ branch `init-codebase` (sau khi nhóm trưởng hoàn thành xong), tạo pull request trên branch `feature/home`, trỏ vào branch `main`; pull request phải có mô tả (description); tên của pull request (title), mô tả pull request (description), và commit message phải được viết bằng tiếng Anh.
 
 3. **Nguyễn Trọng Khiêm** (Thành viên) - MSSV: `25119102` - [Facebook](https://www.facebook.com/nguyen.trong.khiem.638790/about?locale=vi_VN)
-   - *Nhiệm vụ:* Phụ trách nghiên cứu bảng màu thương hiệu logo DSC, phối hợp phát triển giao diện theo chuẩn thiết kế và kiểm thử chất lượng sản phẩm.
 
 
