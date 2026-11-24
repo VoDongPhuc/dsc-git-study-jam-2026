@@ -3,6 +3,9 @@ import {
   Users,
   ExternalLink,
 } from 'lucide-react'
+import phucAvatar from '../assets/avatars/phuc.png'
+import lamAvatar from '../assets/avatars/lam.png'
+import khiemAvatar from '../assets/avatars/khiem.png'
 
 function FacebookIcon({ size = 18 }) {
   return (
@@ -45,7 +48,7 @@ export function AboutView() {
       name: 'Võ Đông Phúc',
       mssv: '25110307',
       role: 'Nhóm trưởng',
-      avatar: '/avatars/phuc.png',
+      avatar: phucAvatar,
       facebook: 'https://www.facebook.com/share/1DngFZnegh/?mibextid=wwXIfr',
       github: 'VoDongPhuc',
       desc: `BUG KHÔNG TỰ SINH RA, NÓ DO MÌNH VIẾT!
@@ -56,7 +59,7 @@ Mình là Võ Đông Phúc – thành viên cầm lái của Côn Đồ Trên Co
       name: 'Lương Hoàng Nhất Lâm',
       mssv: '25110254',
       role: 'Thành viên còn lại',
-      avatar: '/avatars/lam.png',
+      avatar: lamAvatar,
       facebook: 'https://www.facebook.com/share/18bE9Ye6MZ/?mibextid=wwXIfr',
       github: 'lh-nhatlam',
       desc: `System.out.println("Name : Nhất Lâm");
@@ -68,7 +71,7 @@ Mình mong sau những nhiệm vụ như thế này mình có thể tiến bộ 
       name: 'Nguyễn Trọng Khiêm',
       mssv: '25119102',
       role: 'Thành viên',
-      avatar: '/avatars/khiem.png',
+      avatar: khiemAvatar,
       facebook: 'https://www.facebook.com/nguyen.trong.khiem.638790/about?locale=vi_VN',
       github: 'nt-khiem',
       desc: `Xin chào, mình là Nguyễn Trọng Khiêm, thành viên của team Côn đồ trên con đò. Hiện tại mình mới bắt đầu tiếp cận với Git nên còn nhiều bỡ ngỡ, nhưng mình cam kết sẽ nỗ lực 500% để học hỏi và hoàn thành tốt nhất mọi nhiệm vụ được giao. Rất mong nhận được sự hỗ trợ từ cả nhóm.`,
